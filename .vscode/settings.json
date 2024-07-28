@@ -1,0 +1,16 @@
+{
+            "auto-rename-tag.activationOnLanguage": [
+
+                        "*"
+            ],
+            "editor.inlineSuggest.suppressSuggestions": true,
+            "editor.suggest.snippetsPreventQuickSuggestions": true,
+            "emmet.useInlineCompletions": true,
+            "editor.quickSuggestions": {
+                        "strings": "on"
+            },
+            "terminal.integrated.commandsToSkipShell": [
+                        "",
+                        "\"editor.suggestOnTriggerCharacters\": true,"
+            ]
+}
